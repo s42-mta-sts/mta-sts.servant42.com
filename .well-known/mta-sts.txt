@@ -1,5 +1,5 @@
 version: STSv1
 mode: enforce
-mx: servant42-com.mail.protection.outlook.com
+mx: servant42-com.a-v1.mx.microsoft
 max_age: 4838800
 
